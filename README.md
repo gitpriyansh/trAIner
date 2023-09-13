@@ -1,6 +1,6 @@
 # trAIner
 Github Hackathon
 
-Hackathon Peoject,
+Hackathon Project,
 
 AI assistant for personal fitness.
