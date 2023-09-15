@@ -44,8 +44,8 @@ $ (venv) python chat_bot.py
 
 
 ## Watch the Demonstration Video
-[![Alt text](https://img.youtube.com/vi/a37BL0stIuM/hqdefault.jpg)](https://youtu.be/a37BL0stIuM)  
-[https://youtu.be/a37BL0stIuM](https://youtu.be/a37BL0stIuM)
+[![Alt text](https://img.youtube.com/watch?v=DEkWgMLNaX0)  
+[https://youtu.be/a37BL0stIuM]([https://youtu.be/a37BL0stIuM](https://www.youtube.com/watch?v=DEkWgMLNaX0))
 
 ## Note
 In the video we give the demonstration of the project.
