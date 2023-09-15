@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Web App</title>
+    <!-- Add your CSS styles for tabs here -->
+</head>
+<body>
+    <div class="tabs">
+        <button id="tabButton1">Tab 1</button>
+        <button id="tabButton2">Tab 2</button>
+        <!-- Add more tabs as needed -->
+    </div>
+    <div class="content">
+        <!-- Content of each tab will go here -->
+    </div>
+    <!-- Add your JavaScript code to handle tab switching here -->
+    <script>
+
+        // JavaScript code to handle tab switching and button click
+const tabButton1 = document.getElementById('tabButton1');
+const tabButton2 = document.getElementById('tabButton2');
+const contentDiv = document.querySelector('.content');
+
+// Event listener for Tab 1
+tabButton1.addEventListener('click', () => {
+    contentDiv.innerHTML = ''; // Clear existing content
+    // Add the content for Tab 1 here
+});
+
+// Event listener for Tab 2
+tabButton2.addEventListener('click', () => {
+    contentDiv.innerHTML = ''; // Clear existing content
+    // Add the content for Tab 2 here
+});
+
+// Event listener for the button to open index.js
+const openIndexButton = document.getElementById('openIndexButton');
+openIndexButton.addEventListener('click', () => {
+    // Redirect to the index.js page or load its content here
+    // You may need to use a specific method depending on your requirements
+});
+
+    </script>
+</body>
+</html>
