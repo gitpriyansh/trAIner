@@ -5,7 +5,7 @@ The trAIner is a collaboration website between AI and online fitness training. I
 
 # trAIner with Flask and JavaScript
 
-In this tutorial we deploy the trAIner Website for localhost
+ we deployed the trAIner Website on localhost
 
 This gives 2 deployment options:
 - Deploy within Flask app
